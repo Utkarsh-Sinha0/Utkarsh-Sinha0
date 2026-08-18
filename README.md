@@ -2,6 +2,8 @@
 
 `BCA graduate (2025) · BS in Data Science student at IIT Madras`
 
+**Open-source contributor · Bug hunter · Responsible disclosure**
+
 I build trustworthy AI systems, reproducible research tooling, and practical developer products. My work sits where applied machine learning meets systems engineering: clear contracts, bounded automation, human review, and evidence that another person can inspect.
 
 ## Selected work
@@ -16,6 +18,7 @@ I build trustworthy AI systems, reproducible research tooling, and practical dev
 ## What I bring
 
 - Evidence-first product and research engineering
+- Open-source contribution and responsible bug hunting
 - Applied AI and agent orchestration with explicit safety boundaries
 - Python, TypeScript, Rust, React, FastAPI, Docker, PostgreSQL, ONNX, and GitHub Actions
 - End-to-end validation across APIs, browser flows, accessibility, containers, and CI
