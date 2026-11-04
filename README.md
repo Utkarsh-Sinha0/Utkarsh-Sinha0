@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="#featured-research">Research</a> &nbsp;·&nbsp;
   <a href="#open-source">Open source</a> &nbsp;·&nbsp;
   <a href="#selected-projects">Projects</a> &nbsp;·&nbsp;
   <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
@@ -13,6 +14,16 @@
 </p>
 
 I build AI systems, research tools, and developer products with an emphasis on clear contracts, practical validation, and evidence others can inspect.
+
+## Featured research
+
+### K GraphFuse
+
+Sparse graph polynomial evaluation with reusable plans, directional sensitivities, and optional CUDA execution. The project includes benchmark evidence, reproducibility materials, and a research manuscript on similarity-aware evaluation and selective GPU compensation.
+
+[**Repository**](https://github.com/Utkarsh-Sinha0/k-graphfuse) · [**Research manuscript**](https://utkarsh-sinha0.github.io/k-graphfuse/research/paper/) · [Documentation](https://utkarsh-sinha0.github.io/k-graphfuse/) · [Benchmark evidence](https://utkarsh-sinha0.github.io/k-graphfuse/benchmarks/results/)
+
+*The manuscript is a technical preprint draft and has not been peer-reviewed.*
 
 ## Open source
 
