@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Utkarsh Sinha — building systems worth trusting</title>
+  <desc id="desc">A dark blue banner with a connected network of research, code, and evidence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#142d3d"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#68e4c1"/><stop offset="1" stop-color="#75baff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <circle cx="1050" cy="40" r="170" fill="#64dbbe" opacity=".05"/>
+  <path d="M50 51h44" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+  <text x="50" y="105" fill="#f4f8fc" font-family="Segoe UI,Arial,sans-serif" font-size="46" font-weight="700">UTKARSH SINHA</text>
+  <text x="52" y="147" fill="#80e5c8" font-family="Segoe UI,Arial,sans-serif" font-size="21">Building systems worth trusting.</text>
+  <text x="52" y="193" fill="#aebed0" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="2">RESEARCH  ·  SOFTWARE  ·  OPEN SOURCE</text>
+  <g fill="none" stroke="url(#line)" stroke-width="2" opacity=".65">
+    <path d="M780 76l112 45 98-61 120 73-98 65-120-77-77 79"/>
+    <path d="M892 121l120 77M990 60l22 138M815 200l197-2" opacity=".42"/>
+  </g>
+  <g fill="#0d1b2a" stroke="#80e5c8" stroke-width="2">
+    <circle cx="780" cy="76" r="8"/><circle cx="892" cy="121" r="12"/><circle cx="990" cy="60" r="8"/><circle cx="1110" cy="133" r="10"/><circle cx="1012" cy="198" r="8"/><circle cx="815" cy="200" r="8"/>
+  </g>
+  <circle cx="892" cy="121" r="4" fill="#80e5c8"/>
+</svg>
