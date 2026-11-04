@@ -19,6 +19,8 @@ I build AI systems, research tools, and developer products with an emphasis on c
 
 ### K GraphFuse
 
+[![K GraphFuse workflow: plan, evaluate, verify](assets/graphfuse-workflow.svg)](https://github.com/Utkarsh-Sinha0/k-graphfuse)
+
 Sparse graph polynomial evaluation with reusable plans, directional sensitivities, and optional CUDA execution. The project includes benchmark evidence, reproducibility materials, and a research manuscript on similarity-aware evaluation and selective GPU compensation.
 
 [**Repository**](https://github.com/Utkarsh-Sinha0/k-graphfuse) · [**Research manuscript**](https://utkarsh-sinha0.github.io/k-graphfuse/research/paper/) · [Documentation](https://utkarsh-sinha0.github.io/k-graphfuse/) · [Benchmark evidence](https://utkarsh-sinha0.github.io/k-graphfuse/benchmarks/results/)
