@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">K GraphFuse research workflow</title>
+<desc id="desc">A three-stage workflow: compile sparse graph stages, evaluate with reusable plans, and check results against accuracy and benchmark evidence.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d192b"/><stop offset="1" stop-color="#173447"/></linearGradient></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<text x="46" y="55" fill="#80e5c8" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">FEATURED RESEARCH  /  K GRAPHFUSE</text>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="45" y="85" width="330" height="142" rx="13" fill="#183348" stroke="#33566a"/>
+<text x="68" y="119" fill="#80e5c8" font-size="14">01  /  PLAN</text>
+<text x="68" y="155" fill="#f4f8fc" font-size="23" font-weight="700">Compile graph stages</text>
+<text x="68" y="188" fill="#becddb" font-size="16">Ordered sparse polynomials</text>
+<rect x="435" y="85" width="330" height="142" rx="13" fill="#183348" stroke="#33566a"/>
+<text x="458" y="119" fill="#80e5c8" font-size="14">02  /  EVALUATE</text>
+<text x="458" y="155" fill="#f4f8fc" font-size="23" font-weight="700">Reuse the plan</text>
+<text x="458" y="188" fill="#becddb" font-size="16">CPU and optional GPU paths</text>
+<rect x="825" y="85" width="330" height="142" rx="13" fill="#183348" stroke="#33566a"/>
+<text x="848" y="119" fill="#80e5c8" font-size="14">03  /  VERIFY</text>
+<text x="848" y="155" fill="#f4f8fc" font-size="23" font-weight="700">Inspect the evidence</text>
+<text x="848" y="188" fill="#becddb" font-size="16">Accuracy, timing, and limits</text>
+<path d="M390 156h28m-8-8 8 8-8 8M780 156h28m-8-8 8 8-8 8" fill="none" stroke="#80e5c8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="47" y="270" fill="#9bafbe" font-size="15">Research manuscript  ·  Reproducible experiments  ·  Open-source implementation</text>
+</g></svg>
