@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 245" role="img" aria-labelledby="title desc">
+  <title id="title">Utkarsh Sinha</title>
+  <desc id="desc">Research software, machine learning and open source</desc>
+  <rect width="1200" height="245" fill="#f6f4ef"/>
+  <path d="M64 42h1072" stroke="#aaa59b" stroke-width="1"/>
+  <text x="64" y="77" fill="#586067" font-family="Arial, sans-serif" font-size="14" letter-spacing="2.5">RESEARCH SOFTWARE  /  MACHINE LEARNING  /  OPEN SOURCE</text>
+  <text x="60" y="159" fill="#202b32" font-family="Georgia, 'Times New Roman', serif" font-size="68">Utkarsh Sinha</text>
+  <path d="M64 192h76" stroke="#567d78" stroke-width="3"/>
+  <path d="M154 192h982" stroke="#aaa59b" stroke-width="1"/>
+  <text x="64" y="222" fill="#586067" font-family="Arial, sans-serif" font-size="14" letter-spacing=".5">Data science  ·  Graph computation  ·  Reproducible research</text>
+</svg>
