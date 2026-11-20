@@ -1,6 +1,6 @@
 ![Utkarsh Sinha — research software, machine learning and open source](assets/editorial-masthead.svg)
 
-**BS Data Science student, IIT Madras** · BCA graduate, 2025
+**BS Data Science student, IIT Madras** · 
 
 I am interested in graph computation, machine learning, and the software behind reproducible research. My work connects mathematical ideas to implementations that can be tested, examined, and built upon.
 
